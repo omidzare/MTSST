@@ -1,6 +1,6 @@
-# MTSST: Multivariate Time Series Similarity Tree
+# MTSST: Multivariate Time Series Step Tree
 
-This repository contains the implementation of the **Multivariate Time Series Similarity Tree (MTSST)**, a novel interpretable machine learning model for multivariate time series classification.
+This repository contains the implementation of the **Multivariate Time Series Step Tree (MTSST)**, a novel interpretable machine learning model for multivariate time series classification.
 
 ## Project Overview
 
