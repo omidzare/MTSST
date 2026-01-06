@@ -55,7 +55,7 @@ This script will:
 
 If you use this code in your research, please cite our paper:
 
-[Insert Citation Here when available]
+[paper to be defined]
 
 ## License
 
