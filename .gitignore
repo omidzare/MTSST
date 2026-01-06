@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+env/
+.venv/
+.env
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
+
+# Output files (optional - keep if you want to show sample results)
+# *.png
+# *.pdf
