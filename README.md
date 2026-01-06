@@ -59,4 +59,4 @@ If you use this code in your research, please cite our paper:
 
 ## License
 
-[Insert License Here]
+The datasets analyzed in this study are publicly available from the UEA multivariate time series classification archive.
