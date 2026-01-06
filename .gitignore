@@ -14,6 +14,12 @@ env/
 .idea/
 .DS_Store
 
-# Output files (optional - keep if you want to show sample results)
-# *.png
-# *.pdf
+# Output files
+*.png
+# *.pdf # Keep if you want PDFs, but user requested removal of specific PDF
+
+# Specific files to exclude
+MTSST_Conference_Paper.pdf
+MTSST_Multivariate_Tree.ipynb
+ts_step_tree.ipynb
+witness_cut.ipynb
